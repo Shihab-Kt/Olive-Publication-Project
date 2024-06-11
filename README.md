@@ -22,4 +22,4 @@ A bar chart visualizing the defect distribution across different modules is incl
 To view the project files, clone this repository using the following command:
 
 ```bash
-git clone
+git clone https://github.com/Shihab-Kt/Olive-Publication-Project.git
